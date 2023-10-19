@@ -4,7 +4,6 @@
 🌱 공부를 하고 있는것: **ReactJS** & **JavaScript** & **TypeScript**<br>
 🤔 고민하는 부: **프론트엔드 개발이란...** <br>
 👨‍💻 알고리즘 푸는 곳: [codewars](https://www.codewars.com/users/monii_yoo)<br>
-😄 Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ♥️ 좋아하는 것: 강아지(🐶), 여행(🌍), 맛집 탐방(🍕) <br><br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***사용 할 수 있는 기술***<br><br>
