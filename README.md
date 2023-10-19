@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***간단 소개***
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<!--
-**monii/monii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 공부를 하고 있는것: **ReactJS** & **JavaScript** & **TypeScript**<br>
+🤔 고민하는 부: **프론트엔드 개발이란...** <br>
+👨‍💻 알고리즘 푸는 곳: [codewars]([https://leetcode.com/Akash_Chowrasia](https://www.codewars.com/users/monii_yoo)/) <br>
+😄 Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+⚡ 좋아하는 것: 강아지(🐶), 여행(🌍), 맛집 탐방(🍕) <br><br>
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***사용 할 수 있는 기술***<br><br>
+![javascript](https://img.shields.io/badge/javascript-%23000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)&nbsp;
+![Static Badge](https://img.shields.io/badge/react-%23000?style=for-the-badge&logo=react&logoColor=white&labelColor=%2361DAFB&color=%2361DAFB)&nbsp;
+![Static Badge](https://img.shields.io/badge/typescript-%23000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6)&nbsp;
+![Static Badge](https://img.shields.io/badge/styledcomponents-%23000?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=%23DB7093&color=%23DB7093)&nbsp;
+![Static Badge](https://img.shields.io/badge/css3-%23000?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monii&show_icons=true&locale=en&layout=compact" alt="내가 제일 많이 사용한 언어" />
+
+
+
