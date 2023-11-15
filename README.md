@@ -2,8 +2,8 @@
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 🌱 공부를 하고 있는것: **ReactJS** & **JavaScript** & **TypeScript**<br>
-🤔 요즘 고민: **프론트엔드 개발이란...** <br>
-👨‍💻 알고리즘 푸는 곳: [codewars](https://www.codewars.com/users/monii_yoo)<br>
+🤔 요즘 고민: **어떤 개발자가 되고 싶은가?** <br>
+👨‍💻 알고리즘 푸는 곳: [codewars](https://www.codewars.com/users/monii_yoo), [프로그래머스](https://programmers.co.kr/)<br>
 ♥️ 좋아하는 것: 강아지(🐶), 여행(🌍), 맛집 탐방(🍕) <br><br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***사용 할 수 있는 기술***<br><br>
