@@ -5,7 +5,6 @@
 🤔 요즘 고민: **어떤 개발자가 되고 싶은가?** <br>
 👨‍💻 알고리즘 푸는 곳: [codewars](https://www.codewars.com/users/monii_yoo), [프로그래머스](https://programmers.co.kr/)<br>
 ♥️ 좋아하는 것: 강아지(🐶), 여행(🌍), 맛집 탐방(🍕) <br>
-🔗 개인페이지: [노션 공개페이지](https://monii0312.notion.site/Log-5acdfbdb8bbc425b901bc97723e9b991?pvs=4)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***사용 할 수 있는 기술***<br><br>
 ![javascript](https://img.shields.io/badge/javascript-%23000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)&nbsp;
